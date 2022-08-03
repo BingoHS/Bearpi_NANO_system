@@ -1,0 +1,9 @@
+﻿  tcpClient.cpp
+C:\Users\H\source\repos\Project1\tcpClient.cpp(104,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\H\source\repos\Project1\tcpClient.cpp(137,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\H\source\repos\Project1\tcpClient.cpp(377,42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\H\source\repos\Project1\tcpClient.cpp(380,42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\H\source\repos\Project1\tcpClient.cpp(383,44): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\H\source\repos\Project1\tcpClient.cpp(373,12): warning C4101: “b”: 未引用的局部变量
+C:\Users\H\source\repos\Project1\tcpClient.cpp(372,53): warning C4101: “bk”: 未引用的局部变量
+  Project1.vcxproj -> C:\Users\H\source\repos\Project1\x64\Debug\Project1.exe
